@@ -1,0 +1,3 @@
+PERPLEXITY RESULTS
+Our GPT-2-like model : 95.01
+HF GPT-2 baseline    : 57.96

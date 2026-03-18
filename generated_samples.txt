@@ -1,0 +1,68 @@
+
+======================================================================
+
+PROMPT: "The history of artificial intelligence began"
+======================================================================
+
+[Greedy Decoding]
+The history of artificial intelligence beganThe first developed in the late 19th century , when the AI researchers began to develop the same problems they were to be used as a machine . The first AI research was a machine that was a machine that was a machine that could be used to develop a machine . The first AI research was a machine that was a machine that could be used to develop a machine .
+──────────────────────────────────────────────────────────────────────
+
+[Top-k Sampling  (k=50)]
+The history of artificial intelligence beganThe first published and first published in 1839 , when it was published in 1832 . The first version of the solar paraphore was the first and best @-@ known version of the 19th century . In 1834 , the figures of the Royal Canadian Defence was formed , but did not want the name of the Portable by this time , and the small numbers of the Réunion solitaire was a beauty that seen on the French coast . The British had taken much of the British presence in the area .
+──────────────────────────────────────────────────────────────────────
+
+[Nucleus Sampling (p=0.9)]
+The history of artificial intelligence began= = = = Dualism = = = =
+──────────────────────────────────────────────────────────────────────
+
+======================================================================
+
+PROMPT: "In the field of natural language processing"
+======================================================================
+
+[Greedy Decoding]
+In the field of natural language processing= = = Chemical properties = = =
+──────────────────────────────────────────────────────────────────────
+
+[Top-k Sampling  (k=50)]
+In the field of natural language processing= = = Themes = = =
+──────────────────────────────────────────────────────────────────────
+
+[Nucleus Sampling (p=0.9)]
+In the field of natural language processing= = = Jifna = = =
+──────────────────────────────────────────────────────────────────────
+
+======================================================================
+
+PROMPT: "Scientists recently discovered that"
+======================================================================
+
+[Greedy Decoding]
+Scientists recently discovered thatThe first such ceratopsian species , Lambertus , was named by Marsh in 1878 by Marsh in 1878 . The first scientific study of ceratopsians was the first scientific name of the genus Lambertus , in 1878 , and the first scientific name of the genus Lambertus . The first scientific name was the type species of the genus Lambertus , in 1878 , and was named by Marsh in 1878 . The classification of the genus Lambert Barnum Brown in 1878 , based on the type specimen
+──────────────────────────────────────────────────────────────────────
+
+[Top-k Sampling  (k=50)]
+Scientists recently discovered thatCadmium has a long fracturesque of overflow and some of its spectrosciences with metals and metals of ice tables .
+──────────────────────────────────────────────────────────────────────
+
+[Nucleus Sampling (p=0.9)]
+Scientists recently discovered thatThe great Mmedithic to be a true figure , which could be taken into the Renaissance . The image is probably made of a continental artificial intelligence that followed .
+──────────────────────────────────────────────────────────────────────
+
+======================================================================
+
+PROMPT: "The economic impact of climate change"
+======================================================================
+
+[Greedy Decoding]
+The economic impact of climate changeThe history of the island was largely unprecedented . The island 's population of Ireland was largely unprecedented by the British and Irish islands . The island 's natural and natural resources were largely integrated and the area 's growth . The island 's natural resources and the area of the island have been well @-@ known as the " Irish " .
+──────────────────────────────────────────────────────────────────────
+
+[Top-k Sampling  (k=50)]
+The economic impact of climate changeArmoletic view of Waterstone 's economy of Canada lies alongside the Dominican Republic which has been part of the history of Canada . The Canadian government is the fifth largest centered on the island of Dominion , Canada 's largest area in the United States in the United States .
+──────────────────────────────────────────────────────────────────────
+
+[Nucleus Sampling (p=0.9)]
+The economic impact of climate changeThough the economic development of the Everglades is the earliest and consistent underlying peat of cotton , corn , drain , sugar , and salmon .
+──────────────────────────────────────────────────────────────────────
