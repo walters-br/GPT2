@@ -1,0 +1,2 @@
+This repo consists of the files used to train a GPT-2 - like LLM as well as the results of training. By running tokenizer_train, then train, then evaluate, then generate in that order: the model will initiate tokenization, 
+train using Wikitext-2, produce a graph of the learning curve, evaluate perplexity compared to HuggingFace GPT-2 baseline, and generate sample text using greedy, top-k, and nucleus decoding.
