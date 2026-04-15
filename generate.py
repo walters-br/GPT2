@@ -12,6 +12,7 @@ Usage:
 import torch
 import torch.nn.functional as F
 from tokenizers import Tokenizer
+from tokenizer_singleton import TokenizerSingleton
 
 from model         import GPT2Like, GPTConfig
 from model_factory import ModelFactory
@@ -138,7 +139,7 @@ def main():
     model.load_state_dict(checkpoint["model_state"])
 
     # Load tokenizer
-    tokenizer = Tokenizer.from_file("bpe_tokenizer.json")
+    tokenizer = TokenizerSingleton.get_instance("bpe_tokenizer.json")
 
     # Output file
     results = []

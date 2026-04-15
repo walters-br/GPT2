@@ -8,6 +8,7 @@ import torch
 from torch.utils.data import Dataset, DataLoader
 from tokenizers import Tokenizer
 from datasets import load_dataset
+from tokenizer_singleton import TokenizerSingleton
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -76,7 +77,7 @@ def build_dataloaders(
         (train_loader, val_loader, test_loader)
     """
     print("Loading tokenizer...")
-    tokenizer = Tokenizer.from_file(tokenizer_path)
+    tokenizer = TokenizerSingleton.get_instance(tokenizer_path)
 
     print("Loading Wikitext-2 dataset...")
     raw = load_dataset("wikitext", "wikitext-2-raw-v1")
